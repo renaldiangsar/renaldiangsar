@@ -15,7 +15,8 @@ Here are some of the technologies I work with:
 
 ## Let's Connect! 🤝
 Feel free to reach out to me if you're interested in potential collaborations on the following platforms:
-- LinkedIn: [Rinaldi Angsar](https://www.linkedin.com/in/rinaldi-angsar-xxxi/)
+- LinkedIn: [Rinaldi Angsar](https://www.linkedin.com/in/rinaldi-angsar/)
 - Email: [renaldiangsar20@gmail.com](mailto:renaldiangsar20@gmail.com)
+- Kaggle: [Kaggle](https://www.kaggle.com/rinaldiangsarr)
 
 I'm want to become Machine Learning Engineer.
